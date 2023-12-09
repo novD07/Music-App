@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tvAppName">#FFC107</color>
+    <color name="tvDanhsach">#FD0101</color>
+    <color name="tvBaihat">#FFC107</color>
+</resources>

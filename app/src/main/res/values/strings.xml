@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="tvAppName">Music novD</string>
+    <string name="tvDanhsach">Danh sách nhạc</string>
+</resources>
